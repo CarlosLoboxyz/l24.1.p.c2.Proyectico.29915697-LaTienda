@@ -5,7 +5,7 @@
 
 # Salida:
 - Por Tienda:
-    - cual arituclo se vendio mas
+    - cual articulo se vendio mas
     - monto total vendido
 
 
